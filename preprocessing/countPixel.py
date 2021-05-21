@@ -2,7 +2,7 @@
 """
 Created on Fri Dec  4 13:51:41 2020
 
-@author: USER
+@author: src-by-hannah
 
 # https://stackoverflow.com/questions/28576203/how-to-count-the-number-of-pixels-of-a-certain-color-in-python
 # https://stackoverflow.com/questions/50545192/count-different-colour-pixels-python/50545224
